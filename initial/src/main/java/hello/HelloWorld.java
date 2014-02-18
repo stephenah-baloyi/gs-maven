@@ -1,4 +1,7 @@
 package hello;
+/*
+ My first Maven and Git Assignment. Rhulani and Elton :)
+*/
 
 public class HelloWorld {
     public static void main(String[] args) {
